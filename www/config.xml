@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
+        id        = "com.phonegap.cuisine_du_maroc"
         version   = "2.2.0">
-    <name>Hello World</name>
+    <name>Cuisine du Maroc</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Cuisine Du Maroc une application Pour vous apprends la cuisine marocaine,des recettes avec des ingredients et la methodes de preparation.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
+    <author href="http://webdesign.ichharnet.ma" email="spotopub@gmail.com">
         PhoneGap Team
     </author>
 
